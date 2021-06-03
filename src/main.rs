@@ -1,7 +1,8 @@
 mod dao;
 mod net;
-mod clinet;
+mod client;
 mod reply;
+mod util;
 
 fn main() {
     println!("Hello, world!");
